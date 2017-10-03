@@ -1,8 +1,8 @@
 # Meteor-Angular4-Boilerplate
 
-##Introducation
-This is a boilerplate for somebody who wants to user angular4 in his meteor app. 
-##Usage
+## Introducation
+This is a boilerplate for somebody who wants to user angular4 in his meteor app.
+## Usage
 Clone this boilerplate:
 ``` bash
   $cd meteor-angular4-boilerplate
